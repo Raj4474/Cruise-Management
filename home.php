@@ -43,7 +43,11 @@
 
 <body>
   <?php include 'components/header.php' ?>
-
+<div class="container">
+  <p>hrllo
+    
+  </p>
+</div>
   <div class="slider-outer">
     <div class="owl-carousel owl-theme slider-inner">
       <div class="item slider-item">
