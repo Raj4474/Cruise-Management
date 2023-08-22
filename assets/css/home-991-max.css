@@ -1,0 +1,214 @@
+@media (max-width:991px) {
+    .main-header .header-top-outer .header-top-inner {
+        width: 97%;
+    }
+
+    .main-header .header-top-outer .header-top-inner .country {
+        width: 10%;
+    }
+
+    .main-header .header-top-outer .header-top-inner .search {
+        width: 45%;
+    }
+
+    .main-header .header-top-outer .header-top-inner .search .search-pro .serch-hear {
+        width: 300px;
+    }
+
+    .main-header .header-bottom .header-inner .optionn ul li {
+        margin: 18px 1% 0px 1%;
+    }
+
+    .main-header .header-top-outer .header-top-inner .order {
+        width: 10%;
+    }
+
+    .main-header .header-bottom .header-inner .optionn {
+        width: 77%;
+    }
+
+    .main-header .header-bottom .header-inner .optionn .dropdown {
+        position: absolute;
+        left: 59px;
+        top: 128px;
+    }
+
+    .main-header .header-bottom .header-inner .optionn .Latest {
+        position: absolute;
+        left: 134px;
+        top: 128px;
+    }
+
+    .main-header .header-bottom .header-inner .sale {
+        width: 20%;
+    }
+
+    .main-body .slider-outer .slider-inner .slider-item .banner {
+        height: 350px;
+        max-width: 992px;
+    }
+
+    .main-body .slider-outer .slider-inner .slider-item .slider-content {
+        position: absolute;
+        top: 40px;
+        left: 15%;
+    }
+
+    .main-body .slider-outer .slider-inner .slider-item .slider-img3 {
+        position: absolute;
+        top: 60px;
+        left: 46%;
+        z-index: 1;
+    }
+
+    .owl-prev {
+        position: absolute;
+        left: 10px;
+        top: 116px;
+    }
+
+    .owl-next {
+        position: absolute;
+        right: 1%;
+        top: 116px;
+    }
+
+    .main-body .slider-outer .slider-inner .slider-item .slider-content .fashion {
+        max-width: 420px;
+    }
+
+    .main-body .slider-outer .slider-inner .slider-item .slider-content .fashion .livesale {
+        font-size: 45px;
+    }
+
+    .main-body .slider-outer .slider-inner .slider-item .slider-content .fashion h4 {
+        font-size: 40px;
+        margin: 4px 29px;
+    }
+
+    .main-body .slider-outer .slider-inner .slider-item .slider-content .fashion>.contents {
+        font-size: 24px;
+    }
+
+    .category-outer .category-inner .category-image .category-inner-item {
+        width: 32%;
+    }
+
+    .category-outer .category-inner .category-image .category-inner-item .inner-content .text {
+        position: absolute;
+        top: 16%;
+        left: 46%;
+    }
+
+    .category-outer .category-inner .category-image .category-inner-item .inner-content .text p {
+        font-size: 19px;
+    }
+
+    .category-outer .category-inner .category-image .category-inner-item .inner-content .text .best a {
+        padding: 8px 3px;
+    }
+
+    .category-outer .category-inner .category-image .category-inner-item .inner-content .text .new-collection {
+        font-size: 18px;
+    }
+
+    .category-outer .category-inner .category-image .category-inner-item .inner-content .text .new-collection1 {
+        margin-left: 8px;
+        font-size: 16px;
+    }
+
+    .product-outer .inner .product-title .main-title p {
+        font-size: 38px;
+    }
+
+    .product-outer .inner .product-title .product-list ul {
+        position: absolute;
+        left: 42%;
+        top: 50%;
+    }
+
+    .product-outer .inner .item .inner-item .content .image .hover-content .icon {
+        height: 35px;
+        width: 35px;
+        line-height: 37px;
+    }
+
+    .product-outer .inner .details-inner {
+        max-width: 500px;
+        position: absolute;
+        top: 25%;
+        left: 11%;
+    }
+
+    .product-outer .inner .details-inner .inner-content .detail-middel .middel-right .Quantity .addcart {
+        position: absolute;
+        top: 57%;
+        left: 27%;
+    }
+
+    .product-outer .inner .inner-block .content {
+        position: absolute;
+        left: 21%;
+    }
+
+    .offer-outer .offer-inner {
+        margin: 0px 37px;
+    }
+
+    .offer-outer .offer-inner .inner-detail {
+        display: block;
+        position: absolute;
+        top: 63%;
+        left: 42%;
+        width: 55%;
+    }
+
+    .offer-outer .offer-inner .inner-detail .detail .inner-input .shop-btn {
+        position: absolute;
+        top: 0px;
+        left: 224px;
+    }
+
+    .offer-outer .offer-inner .inner-detail .detail .inner-input .btn {
+        padding: 30px 21px;
+    }
+
+    .offer-outer .offer-inner .inner-detail .detail .inner-input input {
+        width: 43%;
+    }
+
+    .service-outer .service-inner {
+        margin: 0px 24px;
+    }
+
+    .fotter-main .fotter-inner .fotter-top .fotter-logo .inners img {
+        height: 90px;
+        width: 140px;
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+
+    .fotter-main .fotter-inner .fotter-top .fotter-logo .inners p {
+        width: 78%;
+    }
+
+    .fotter-main .fotter-inner .fotter-bottom {
+        margin: 0px 10px;
+    }
+
+    .fotter-main .fotter-inner .fotter-bottom .bottom-inner .inner-right ul {
+        position: absolute;
+        top: 46%;
+        left: 8%;
+    }
+
+}
+
+
+@media (max-width:885px) {
+    .service-outer .service-inner .service-item .service-content {
+        position: absolute;
+        top: 26%;
+        left: 10%;
+    }
+}
